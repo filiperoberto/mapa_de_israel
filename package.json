@@ -1,0 +1,30 @@
+{
+  "name": "mapa_de_israel",
+  "version": "1.0.0",
+  "description": "Mapa com as origens dos povos",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filiperoberto/mapa_de_israel.git"
+  },
+  "keywords": [
+    "gamepad"
+  ],
+  "author": "Filipe Roberto Silva",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/filiperoberto/mapa_de_israel/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-sass": "~2.1.1",
+    "browser-sync": "~2.10.1",
+    "gulp-useref": "~3.0.4",
+    "gulp-uglify": "~1.5.1",
+    "gulp-if": "~2.0.0",
+    "gulp-minify-css": "~1.2.2"
+  }
+}
